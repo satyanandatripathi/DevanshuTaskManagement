@@ -1,0 +1,6 @@
+{
+  "name": "Clarity Task Management",
+  "description": "A web-based project and task management system built with Drizzle, SQLite, and a professional VMware Clarity-inspired design system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
